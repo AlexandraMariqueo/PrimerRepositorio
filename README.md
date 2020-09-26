@@ -1,4 +1,4 @@
 # PrimerRepositorio
 Primer repositorio en github
 ## subtitulo
-como realizar un repopsitorio
+como realizar 
